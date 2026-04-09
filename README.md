@@ -12,6 +12,7 @@
 |---------|-----|
 | **Frontend** | [https://vitto-assesment.vercel.app](https://vitto-assesment.vercel.app) |
 | **Backend API** | [https://assesment-b2ib.onrender.com](https://assesment-b2ib.onrender.com) |
+| **Github Repo** | [https://github.com/RajAryan1001/Vitto_Assesment](https://github.com/RajAryan1001/Vitto_Assesment) |
 | **Health Check** | [https://assesment-b2ib.onrender.com/health](https://assesment-b2ib.onrender.com/health) |
 
 ---
