@@ -37,7 +37,7 @@
 ### Frontend
 | Technology | Purpose | Version |
 |------------|---------|---------|
-| **React.js** | UI Library | 18.2.0 |
+| **React.js** | UI Library | 19.2.0 |
 | **Vite** | Build Tool | 5.0.0 |
 | **Tailwind CSS** | Styling | 3.3.5 |
 | **Framer Motion** | Animations | 10.16.0 |
