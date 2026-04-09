@@ -1,8 +1,8 @@
 # 🏦 Vitto Lending - AI-Powered MSME Loan Decision Platform
 
 ![Vitto Lending Banner](https://img.shields.io/badge/Vitto-Lending-blue)
-![React](https://img.shields.io/badge/React-18.2.0-blue)
-![Node.js](https://img.shields.io/badge/Node.js-18.x-green)
+![React](https://img.shields.io/badge/React-19.2.0-blue)
+![Node.js](https://img.shields.io/badge/Node.js-25.x-green)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
