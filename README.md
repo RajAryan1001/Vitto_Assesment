@@ -50,7 +50,7 @@
 ### Backend
 | Technology | Purpose | Version |
 |------------|---------|---------|
-| **Node.js** | Runtime | 18.x |
+| **Node.js** | Runtime | 25.x |
 | **Express.js** | Web Framework | 4.18.2 |
 | **MongoDB** | Database | Atlas (Cloud) |
 | **Mongoose** | ODM | 7.5.0 |
